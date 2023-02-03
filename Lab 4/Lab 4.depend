@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662621975 source:h:\lab 4\main.cpp
+	<iostream>
+	<windows.h>
+
+1663167685 source:h:\lab 4\lab 4v6.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+

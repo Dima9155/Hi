@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663831245 source:h:\lab 6\lab 7.cpp
+	<iostream>
+	<windows.h>
+	<clocale>
+
+1663831639 source:h:\lab 6\main.cpp
+	<iostream>
+	<windows.h>
+	<clocale>
+
